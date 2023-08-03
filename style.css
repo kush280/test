@@ -13,7 +13,13 @@ nav a {
     color: azure;
 }
 nav a:hover {
-background-color: aqua;
+background-color: whitesmoke;
+color: black;
+}
+#Download {
+    width: 30px ;
+    height: 20px;
+    
 }
 footer {
     background-color: black;
